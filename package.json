@@ -1,0 +1,12 @@
+{
+  "name": "sabrinapu",
+  "description": "sabrinapu",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node sabrinapu.js"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest"
+  }
+}
